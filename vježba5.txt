@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samsung i Apple Mobiteli</title>
+</head>
+<body>
+
+    <h1>Samsung i Apple Mobiteli</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th colspan="2">Samsung</th>
+                <th colspan="2">Apple</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Galaxy S23</td>
+                <td><img src="putanja_do_slike_samsung_galaxy_s23.jpg" alt="Samsung Galaxy S23" width="100"></td>
+                <td>iPhone 14</td>
+                <td><img src="putanja_do_slike_iphone_14.jpg" alt="Apple iPhone 14" width="100"></td>
+            </tr>
+            <tr>
+                <td>Galaxy A54</td>
+                <td><img src="putanja_do_slike_samsung_galaxy_a54.jpg" alt="Samsung Galaxy A54" width="100"></td>
+                <td>iPhone 14 Pro</td>
+                <td><img src="putanja_do_slike_iphone_14_pro.jpg" alt="Apple iPhone 14 Pro" width="100"></td>
+            </tr>
+            <tr>
+                <td>Galaxy Z Fold5</td>
+                <td><img src="putanja_do_slike_samsung_galaxy_z_fold5.jpg" alt="Samsung Galaxy Z Fold5" width="100"></td>
+                <td>iPhone SE (2022)</td>
+                <td><img src="putanja_do_slike_iphone_se_2022.jpg" alt="Apple iPhone SE (2022)" width="100"></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popis Mobitela</title>
+</head>
+<body>
+
+    <h1>Popis Mobitela</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Samsung</th>
+                <th>Apple</th>
+                <th>Huawei</th>
+                <th>Panasonic</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Galaxy S23</td>
+                <td>iPhone 14</td>
+                <td>P60 Pro</td>
+                <td>Toughbook FZ-T1</td>
+            </tr>
+            <tr>
+                <td>Galaxy A54</td>
+                <td>iPhone 14 Pro</td>
+                <td>Mate 50</td>
+                <td>Toughbook FZ-L1</td>
+            </tr>
+            <tr>
+                <td>Galaxy Z Fold5</td>
+                <td>iPhone SE (2022)</td>
+                <td>Nova 11</td>
+                <td>Eluga I8</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
