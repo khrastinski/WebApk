@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vrijednost vremena</title>
+</head>
+<body>
+    <header>
+        <h1>Vrijednost vremena u svakodnevnom životu</h1>
+    </header>
+    <section>
+        <h2>Kako pravilno koristiti vrijeme za uspjeh</h2>
+        <p>
+            Vrijeme je jedan od najdragocjenijih resursa u životu svakog pojedinca. Upravljanje vremenom ne samo da pomaže u povećanju produktivnosti, već i u osiguravanju ravnoteže između posla i privatnog života. Oni koji prepoznaju važnost vremena, često uspijevaju postići svoje ciljeve učinkovitije od drugih.
+        </p>
+        <p>
+            Primjerice, studenti koji nauče koristiti vrijeme na pravilan način obično imaju bolje akademske rezultate. Organizacija vremena kroz planiranje i postavljanje prioriteta ključni su koraci koji omogućuju ostvarivanje dugoročnih ciljeva i izbjegavanje nepotrebnog stresa. Osim toga, ovo se pravilo može primijeniti i na profesionalni svijet, gdje je sposobnost upravljanja vremenom visoko cijenjena osobina.
+        </p>
+    </section>
+</body>
+</html>
