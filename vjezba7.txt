@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proizvođači i modeli</title>
+</head>
+<body>
+    <ol> 
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+    </ol>
+
+    <ul>
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+    </ul>
+
+    <dl>
+        <dt>Samsung</dt>
+        <dd>Galaxy S23 Ultra, Galaxy S23+, Galaxy S23, Galaxy Z Fold 5, Galaxy Z Flip 5</dd>
+        
+        <dt>Apple</dt>
+        <dd>iPhone 12, iPhone 13, iPhone 14 Plus, iPhone 15 Pro</dd>
+        
+        <dt>Huawei</dt>
+        <dd>Modeli nisu navedeni</dd>
+        
+        <dt>Panasonic</dt>
+        <dd>Modeli nisu navedeni</dd>
+        
+        <dt>Motorola</dt>
+        <dd>Modeli nisu navedeni</dd>
+    </dl>
+
+    <ul>
+        <li>Samsung
+            <ul>
+                <li>Galaxy S23 Ultra</li>
+                <li>Galaxy S23+</li>
+                <li>Galaxy S23</li>
+                <li>Galaxy Z Fold 5</li>
+                <li>Galaxy Z Flip 5</li>
+            </ul>
+        </li>
+        <li>Apple
+            <ul>
+                <li>iPhone 12</li>
+                <li>iPhone 13</li>
+                <li>iPhone 14 Plus</li>
+                <li>iPhone 15 Pro</li>
+            </ul>
+        </li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+    </ul>
+
+    <footer>
+        &copy; Karlo Hrastinski, PhD; 
+        <a href="https://github.com/khrastinski" target="_blank">Github</a> &amp; Ime projekta. All rights reserved.
+    </footer>
+</body>
+</html>
