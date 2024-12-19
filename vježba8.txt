@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tekst s podebljanim riječima</title>
+    <style>
+        b {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Lorem ipsum dolor <b>sit</b> amet, consectetur adipiscing elit.</p>
+        <p>Sed volutpat urna <b>vitae</b> lorem facilisis, sed vehicula magna rutrum.</p>
+    </div>
+
+    <p>Maecenas <b>vitae</b> nibh massa.</p>
+    <p>Ut finibus non <b>sit</b> nec ultrices.</p>
+</body>
+</html>
+
