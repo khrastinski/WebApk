@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primjer HTML stranice</title>
+    <style>
+        p {
+            color: green;
+        }
+        #unique {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="unique">Dobrodošli na moju stranicu</h1>
+    <p>Ovo je prvi paragraf.</p>
+    <p>Ovo je drugi paragraf.</p>
+    <p>Ovo je treći paragraf.</p>
+</body>
+</html>
