@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h1 {
+            text-transform: uppercase; /* Sva slova u naslovu velika */
+            text-shadow: 3px 2px grey; /* Sjena naslova */
+            text-align: center; /* Poravnavanje naslova u sredinu */
+        }
+        
+        h1:hover {
+            text-shadow: 3px 2px red; /* Sjena naslova pri hoveru */
+        }
+
+        p {
+            text-indent: 50px; /* Uvlaka u svim odlomcima */
+            word-spacing: 7px; /* Razmak između riječi u prvom odlomku */
+        }
+
+        p.first {
+            letter-spacing: 2px; /* Razmak između slova u prvom odlomku */
+        }
+
+        p.second {
+            line-height: 2; /* Razmak između linija u drugom odlomku */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Example Heading</h1>
+
+<p class="first">This is the first paragraph. It has spacing between the letters and the words. Notice how the letters are spaced by 2px, and the words have a 7px gap between them.</p>
+
+<p class="second">This is the second paragraph. Notice the larger line height of 20px between each line of text. This makes it more readable and gives more space between the lines.</p>
+
+</body>
+</html>

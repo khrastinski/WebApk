@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Stranica s CSS-om</title>
+    <style>
+        body {
+            font-family: Verdana, Helvetica, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        a {
+            color: green;
+            text-decoration: none;
+        }
+        a:hover {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na HTML5 stranicu</h1>
+    <p>Ova stranica koristi interni CSS za oblikovanje elemenata.</p>
+    <a href="#">Kliknite ovdje za više informacija</a>
+</body>
+</html>
